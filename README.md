@@ -16,7 +16,7 @@ Target Platforms:
 PC, console
 
 Target Audience:
-Teenagers and young adults (ages 13-25) who enjoy exploration, platforming challenges, and immersive worlds.
+Teenagers and young adults (ages 13-73) who enjoy exploration, platforming challenges, and immersive worlds.
 
 Gameplay Mechanics:
 
