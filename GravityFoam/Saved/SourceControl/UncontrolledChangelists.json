@@ -5,9 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal/GravityFoam/Content/Maps/Warehouse_01_day/Main_Warehouse_01.umap",
 				"D:/Git/LowGrav/GravityFoam/Content/ADN/Blueprint/Bp_Foam.uasset",
-				"D:/Git/LowGrav/GravityFoam/Content/ADN/Blueprint/FirstPersonProjectile.uasset"
+				"D:/Git/LowGrav/GravityFoam/Content/ADN/Blueprint/FirstPersonProjectile.uasset",
+				"D:/Git/LowGrav/GravityFoam/Content/ADN/Characters/Bp_Deadspace.uasset",
+				"D:/Unreal/GravityFoam/Content/Maps/Warehouse_01_day/Main_Warehouse_01.umap"
 			]
 		}
 	]
