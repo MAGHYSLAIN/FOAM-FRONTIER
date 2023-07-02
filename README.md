@@ -2,12 +2,9 @@
 ![FoamFrontier_00](https://github.com/MAGHYSLAIN/FOAM-FRONTIER/assets/22080463/d6fee8c2-2fa9-4547-b706-f743830750ec)
 
 
-![FoamFrontier_00](https://github.com/MAGHYSLAIN/FOAM-FRONTIER/assets/22080463/15f5274c-3d25-4697-be5e-2a48a125e733)
-
-
 Unreal 5.2
 
-![LowGrav](https://user-images.githubusercontent.com/22080463/236385502-a14548ee-389b-40ec-a157-0ba126ad404a.gif)
+
 
 This is a low gravity 3th person on an unknown planet.
 
@@ -15,6 +12,9 @@ Game Title:
 Foam Frontier
 
 This game has a pedagogical aim to educate young people.
+
+![LowGrav](https://user-images.githubusercontent.com/22080463/236385502-a14548ee-389b-40ec-a157-0ba126ad404a.gif)
+
 Overview:
 Foam Frontier is a thrilling action-adventure game set in a distant galaxy. Players take on the role of a space explorer armed with a foam gun, embarking on a mission to uncover the secrets of an alien planet. Their primary objective is to navigate treacherous terrains, reach high ground, and overcome challenging obstacles using the power of their foam gun.
 
