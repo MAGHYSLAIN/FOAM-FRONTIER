@@ -4,7 +4,7 @@
 
 Unreal 5.2
 
-This is a low gravity 3th person switch to fist person.
+This is a low gravity 3th person switch to first person.
 
 Game Title:
 Foam Frontier
